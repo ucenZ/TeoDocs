@@ -1,8 +1,8 @@
 # teohook
 
-download in discord: https://discord.gg/CGcBureJW6
+download in discord: https://discord.gg/ZNVyrBhZ
 
-latest release: teohook 1.2
+latest release: teohook 1.3
 
 ## changelogs
 
@@ -20,6 +20,10 @@ teohook 1.2:
 - item database list
 - drawing functions (drawline, drawrect, drawtext)
 - some imgui lua funcs
+
+teohook 1.3:
+Updated version to 3.67
+Probably will be the last update :sadge:
 
 ## teohook documentation
 * [Structs](Structs.md)
