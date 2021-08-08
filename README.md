@@ -1,6 +1,6 @@
 # teohook
 
-download in discord: https://discord.gg/ZNVyrBhZ
+download in discord: https://discord.gg/teohook
 
 latest release: teohook 1.3
 
